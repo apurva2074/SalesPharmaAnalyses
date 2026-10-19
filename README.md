@@ -1,4 +1,6 @@
+project URL: https://roadmap.sh/projects/pharmaceutical-sales-data
 # Analysing Pharmaceutical Sales Data
+
 
 ## Overview
 
@@ -61,4 +63,3 @@ Analysing-pharmaceutical-sales-data/
 
 This project uses data analysis techniques to explore pharmaceutical sales across drug categories and time periods. It provides an opportunity to practice data cleaning, filtering, aggregation, statistical analysis, and visualization using Python.
 
-project url: https://roadmap.sh/projects/pharmaceutical-sales-dat
