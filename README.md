@@ -57,11 +57,6 @@ Analysing-pharmaceutical-sales-data/
 │
 └── README.md
 ```
-
-## Key Findings
-
-*To be added after documenting the results of the analysis and visualizations.*
-
 ## Conclusion
 
 This project uses data analysis techniques to explore pharmaceutical sales across drug categories and time periods. It provides an opportunity to practice data cleaning, filtering, aggregation, statistical analysis, and visualization using Python.
