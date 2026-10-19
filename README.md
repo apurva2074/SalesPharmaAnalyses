@@ -1,0 +1,1 @@
+Analyzing the dataset of pharmaceutical sales. Loaded the dataset to understand the columns, rows in dataset. The dataset is distributed by ATC code of drugs, each column is represented by ATC code of drug. The sales of each drug is recorded on each day, each hour, each month and weekly.
